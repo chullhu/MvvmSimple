@@ -1,0 +1,1 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2013\Projects\MvvmSimple\MvvmSimple\MvvmSimple.csproj;neutral
